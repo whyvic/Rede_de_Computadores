@@ -1,3 +1,8 @@
-# Redes-de-Computadores
+# Redes de computadores
+## Repositório criado para inclusão dos trabalhos da cadeira de Redes de Computadores da **UFC** (Universidade Federal do Ceará) de Russas
 
-Repositório criado para adição dos trabalhos da cadeira de Redes de Computadores da UFC (Universidade Federal do Ceará)
+Este repositório abordará os seguintes temas
+1. Modelo TCP/IP
+2. Programação com sockets
+    * cliente/servidor TCP
+    * cliente/servidor UDP
